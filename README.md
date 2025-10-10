@@ -11,7 +11,7 @@ A web application designed to help users easily track and manage their personal 
 A detailed explanation of My 3-tier architecture. Describing how the Nginx web server (Presentation Tier), Node.js backend (Logic Tier), and MySQL database (Data Tier) interact with each other and which AWS services I used (e.g., EC2 for servers, MySQL in an EC2 instance for the database, VPC for networking).
 
 **
-
+![3-tier-architecture](https://github.com/user-attachments/assets/27f89e6f-6ab3-47e7-bdf0-363d68564ac1)
 **
 
 ---
